@@ -1,0 +1,5 @@
+IP: 89.169.160.241;
+name_taski: https://taskify.ddns.net
+name_kittygram: https://ktgrm.ddns.net;
+login: yc-user@mail.ru;
+password: 12345;
